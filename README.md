@@ -8,7 +8,7 @@ src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Raashii">Raashii</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/manu1486">Benison</a>
     <br>
        | © |
         Reserved 
@@ -30,7 +30,7 @@ src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14
 </p>
 </div>
 <div align="center">
-<a href="https://zaramwol.yolasite.com/">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐕𝐈𝐒𝐈𝐓 𝐎𝐔𝐑 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
+<a href="https://github.com/manu1486">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐕𝐈𝐒𝐈𝐓 𝐎𝐔𝐑 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
     <br>
 </p>
 <div align="center">
@@ -67,7 +67,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Benison](https://github.com/manu1486.png?size=100)](https://github.com/manu1486) |  [![Jokerser](https://github.com/manu1486.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/manu1486.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
