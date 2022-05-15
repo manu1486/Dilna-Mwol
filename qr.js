@@ -1,5 +1,5 @@
-/* Copyright (C) 2020 Yusuf Usta.
-PINKY V2
+/* Copyright (C) 2020 Benison Ser.
+NANDHUKUTTAN_V2
 */
 
 const chalk = require('chalk');
