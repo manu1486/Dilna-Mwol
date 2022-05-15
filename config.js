@@ -1,6 +1,6 @@
-/* Copyright (C) 2020 Yusuf Usta.
-re edited by afnan-plk  
-PINKY V2 
+/* Copyright (C) 2020 Benison Ser.
+re edited by Achu-Sir  
+NANDHUKUTTAN_V2 
 */
 
 const { Sequelize } = require('sequelize');
